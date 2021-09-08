@@ -1,8 +1,8 @@
 {
   "Ads": [
   {
-   "select_ads": "ADMOB",
-    "select_backup_ads": "FACEBOOK",
+   "select_ads": "APPLOVIN",
+    "select_backup_ads": "ADMOB",
     "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
@@ -16,8 +16,8 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "db4d5e8718b97d78",
-    "applovin_inter": "518cd97722c60b52",
+    "applovin_banner": "01ba5d6f2943c21b",
+    "applovin_inter": "	05b32394ffc177d3",
     "packagename": "com.carasadapwajarakjauh.caramengetahuiisichatpasangan"
   }
 ],
