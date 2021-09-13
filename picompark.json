@@ -9,7 +9,7 @@
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
     "admob_openid": "ca-app-pub-3940256099942544/3419835294",
-    "interval_intertitial": 5,
+    "interval_intertitial": 1,
     "startappid": "201669628",
     "fan_inter": "YOUR_PLACEMENT_ID",
     "fan_banner_native": "YOUR_PLACEMENT_ID",
@@ -28,18 +28,6 @@
       "title":"Ludo King",
       "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     }
   ],
 
@@ -47,19 +35,7 @@
     {
       "id": 1,
       "name_category": "Easy",
-      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Medium",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Hard",
-      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+      "image": "https://www.ordinarygaming.com/wp-content/uploads/2021/07/Pico_park_online-Screenshot-2021.07.20-23.33.40.89.jpg"
 
     }
   ],
@@ -68,25 +44,25 @@
     {
       "id": 1,
       "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "https://cdn0-production-images-kly.akamaized.net/HkEDZzR6N-0KxCRWMOC-ss8IlQk=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2115193/original/037405100_1524529114-Mobile-Legends-Tips.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
-      "link": "https://aliendro.id/uploads/demo/guidejson/guide_1.html"
+      "title": "Level 6 Puzzles Walkthrough And Guide",
+      "image": "https://www.ordinarygaming.com/wp-content/uploads/2021/07/Pico_park_online-Screenshot-2021.07.20-23.34.01.90.jpg",
+      "description": "Walkthrough And Guide Level 2 Puzzles",
+      "link": "https://wartiny.github.io/baru/guide%20level%206.html"
     },
     {
       "id": 2,
       "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "https://media.suara.com/pictures/480x260/2020/06/26/57007-logo-mobile-legends-youtube-mobile-legends-bang-bang.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
+      "title": "Level 2 Puzzles Walkthrough And Guide",
+      "image": "https://www.ordinarygaming.com/wp-content/uploads/2021/07/Pico_park_online-Screenshot-2021.07.20-23.35.30.26.jpg",
+      "description": "Walkthrough And Guide Level 2 Puzzles",
       "link": "https://wartiny.github.io/baru/guide%20level%202.html"
     },
     {
       "id": 3,
-      "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "https://img.okezone.com/content/2020/08/04/16/2256942/piala-menpora-esport-2020-tampilkan-game-mobile-legends-bang-bang-oiczwialMq.jpg",
-      "description": "Ini contoh description guide/tutorial ka tiga pada json online, silahkan upload file html di hosting",
+      "name_category": "Easy",
+      "title": "Level 1 Puzzles Walkthrough And Guide",
+      "image": "https://www.ordinarygaming.com/wp-content/uploads/2021/07/Pico_park_online-Screenshot-2021.07.20-23.35.58.15.jpg",
+      "description": "Walkthrough And Guide Level 1 Puzzles ",
       "link": "https://wartiny.github.io/baru/guide%20level%201.html"
     }
   ]
