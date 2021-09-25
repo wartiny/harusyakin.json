@@ -1,13 +1,13 @@
 {
   "Ads": [
   {
-   "select_ads": "ADMOB",
-    "select_backup_ads": "APPLOVIN",
+   "select_ads": "APPLOVIN",
+    "select_backup_ads": "ADMOB",
     "backup_mode": "1",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-1961763088641942/4300450580",
-    "admob_nativeid": "ca-app-pub-3940256099942544/224769611X",
+    "admob_nativeid": "ca-app-pub-1961763088641942/4935288091",
     "admob_openid": "ca-app-pub-1961763088641942/4300450580",
     "interval_intertitial": 1,
     "startappid": "201669628",
@@ -16,7 +16,7 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "6598ce1e8e21b205",
+    "applovin_banner": "6598ce1e8e21b20X",
     "applovin_inter": "fa04e16ee90441c3",
     "packagename": "com.ceknamakontak.caramengetahuinamakontakkitadihporanglain"
   }
