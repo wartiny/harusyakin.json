@@ -1,0 +1,89 @@
+{
+  "Ads": [
+  {
+   "select_ads": "FACEBOOK",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "interval_intertitial": 5,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "packagename": "com.aliendroid.alienguide"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn0-production-images-kly.akamaized.net/XEuLNHuWbRO9gC6ZNFAYo2mnSjc=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3228643/original/084415600_1599207661-maps-4237764_1280.jpg"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Lacak Lokasi WA dengan G Maps",
+      "image": "https://asset.kompas.com/crops/D4yXrKCMTXWpJWKmEihQvTZsbdE=/0x0:1145x763/750x500/data/photo/2019/12/11/5df0d5da3b505.jpeg",
+      "description": "Cara Lacak Lokasi WA dengan G Maps",
+      "link": "https://darwindroid.github.io/gambar/hptanpaplikasi.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Melacak nomor HP tanpa aplikasi",
+      "image": "https://cdn1-production-images-kly.akamaized.net/-lBjY4Fz75vzhlDBrEbaQdc7aZs=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2715869/original/030899800_1548755399-pixavay_lost_phone.jpg",
+      "description": "Cara Melacak nomor HP tanpa aplikasi",
+      "link": "https://darwindroid.github.io/gambar/gmaps.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Lacak WA dengan HLR Lookup",
+      "image": "https://1.bp.blogspot.com/-b0xt0OsHDew/X-LbgulSv0I/AAAAAAAACis/5p99tMMJ_uMt92I4osA1yScOEbtdHzPIACLcBGAsYHQ/s640/HLR-Lookup.jpg",
+      "description": "Cara Lacak WA dengan HLR Lookup",
+      "link": "https://darwindroid.github.io/gambar/dengan%20HLR%20Lookup.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Lacak WA dengan Live Location",
+      "image": "https://i0.wp.com/www.kabargames.id/wp-content/uploads/2017/10/WhatsApp-Live-Location.jpg",
+      "description": "Cara Lacak WA dengan Live Location",
+      "link": "https://darwindroid.github.io/gambar/Live%20Location%20pada%20WhatsApp.html"
+    }
+  ]
+}
