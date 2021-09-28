@@ -1,0 +1,89 @@
+{
+  "Ads": [
+  {
+   "select_ads": "FACEBOOK",
+    "select_backup_ads": "",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "interval_intertitial": 5,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "packagename": "com.wagbtips.gantitemawa
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Cara Daftar Bantuan UMKM",
+      "image":"https://play-lh.googleusercontent.com/EoDEcMKegQXqelrLV3X6xHrZiFRelIWQrG_h5JSulk-fUqO5ubgFDNmDxeexdiXiWapE=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.banpres.caradaftarbantuanumkm"
+    },
+    {
+      "id":2,
+      "title":"Cara Internet Gratis tanpa Pulsa / Kuota",
+      "image":"https://play-lh.googleusercontent.com/a4yrr2k3OjTdOQv3n_XnyODwH7WylcppnpB1jROPClvaApXbogHR02oIbYDN9ZEG6lU=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.tutorial.internetgratistanpakuota"
+    },
+    {
+      "id":3,
+      "title":"Among Imposter Space 3D",
+      "image":"https://play-lh.googleusercontent.com/i_7B1RrDHYXnu9BfATJDEAXZBJ__7fDS5Hub3hKVKN6MWOaKk1yjeY6yTDQcaeTI2w=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.among.spaceimpostor"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://www.asliindonesia.net/wp-content/uploads/2020/04/GBWhatsApp-Apk.jpg"
+
+    }
+  ],
+
+  "Data": [
+        {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Dengan Aplikasi GB WA",
+      "image": "https://assets.jalantikus.com/assets/cache/0/0/userfiles/2020/09/11/download-aplikasi-gbwhatsapp-versi-lama-777b3.jpg",
+      "description": "Cara Mengubah Tema Whtspp dengan GB WA",
+      "link": "https://darwindroid.github.io/gambar/gbwhtsp.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Dengan Aplikasi YoWhtspp",
+      "image": "https://easybrazilianrecipes.com/wp-content/uploads/2020/05/YoWhatsApp.jpg",
+      "description": "Cara Mengganti Tema Whtspp dgn aplikasi Yo",
+      "link": "https://darwindroid.github.io/gambar/yowhtsp.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Ganti Tema di IOS",
+      "image": "https://www.tipspintar.com/wp-content/uploads/2018/11/cara-ganti-tema-whatsapp-iphone-1.jpg",
+      "description": "Cara Mengganti Tema Whtspp di iOS",
+      "link": "https://darwindroid.github.io/gambar/diiois.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Ganti Tema di Android",
+      "image": "https://droila.com/wp-content/uploads/2020/07/Cara-mengganti-tema-WhatsApp-YouTube.jpg",
+      "description": "Cara Ganti Tema di Android",
+      "link": "https://darwindroid.github.io/gambar/diandroid.html"
+    }
+  ]
+}
