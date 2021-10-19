@@ -4,8 +4,8 @@
     "bestfriend"
   ],
   "init_jumlah_photo": 50,
-  "pub_id": "",
-  "app_id": "",
+  "pub_id": "pub-1961763088641942",
+  "app_id": "ca-app-pub-1961763088641942~8245386256",
   "admob_banner_id": "ca-app-pub-1961763088641942/8704551256X",
   "admob_interstitial_id": "ca-app-pub-1961763088641942/7198886130",
   "admob_native_id": "ca-app-pub-1961763088641942/4306141246",
@@ -20,11 +20,11 @@
   "fan_interstitial_id": "",
   "fan_native_id": "",
 
-  "startapp_app_id": "21077",
+  "startapp_app_id": "",
 
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4400269",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
 
   "interstitial_inverval": 2,
 
