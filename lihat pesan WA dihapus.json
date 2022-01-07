@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-   "select_ads": "APPLOVIN",
+   "select_ads": "APPLOVIN-D",
     "select_backup_ads": "ADMOB",
     "backup_mode": "1",
     "status_app": "0",
